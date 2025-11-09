@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "ZWrites",
     "description": "",
-    "home_page_url": "https://man-o-tea.github.io",
-    "feed_url": "https://man-o-tea.github.io/feed.json",
+    "home_page_url": "https://zel-writes.com",
+    "feed_url": "https://zel-writes.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Zel"
     },
     "items": [
         {
-            "id": "https://man-o-tea.github.io/test-post.html",
-            "url": "https://man-o-tea.github.io/test-post.html",
+            "id": "https://zel-writes.com/test-post.html",
+            "url": "https://zel-writes.com/test-post.html",
             "title": "Test Post",
             "summary": "This is my first test post!",
             "content_html": "\n  <p>\n    This is my first test post!\n  </p>",

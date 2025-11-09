@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>ZWrites</title>
-    <link href="https://man-o-tea.github.io/feed.xml" rel="self" />
-    <link href="https://man-o-tea.github.io" />
+    <link href="https://zel-writes.com/feed.xml" rel="self" />
+    <link href="https://zel-writes.com" />
     <updated>2025-11-09T13:26:43-06:00</updated>
     <author>
         <name>Zel</name>
     </author>
-    <id>https://man-o-tea.github.io</id>
+    <id>https://zel-writes.com</id>
 
     <entry>
         <title>Test Post</title>
         <author>
             <name>Zel</name>
         </author>
-        <link href="https://man-o-tea.github.io/test-post.html"/>
-        <id>https://man-o-tea.github.io/test-post.html</id>
+        <link href="https://zel-writes.com/test-post.html"/>
+        <id>https://zel-writes.com/test-post.html</id>
 
         <updated>2025-11-09T13:26:43-06:00</updated>
             <summary type="html">
