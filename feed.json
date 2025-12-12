@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "ZWrites",
+    "title": "Zel Writes ",
     "description": "",
     "home_page_url": "https://zel-writes.com",
     "feed_url": "https://zel-writes.com/feed.json",
@@ -10,18 +10,18 @@
     },
     "items": [
         {
-            "id": "https://zel-writes.com/test-post.html",
-            "url": "https://zel-writes.com/test-post.html",
-            "title": "Test Post",
-            "summary": "This is my first test post!",
-            "content_html": "\n  <p>\n    This is my first test post!\n  </p>",
+            "id": "https://zel-writes.com/a-stranger/",
+            "url": "https://zel-writes.com/a-stranger/",
+            "title": "A Stranger",
+            "summary": "I was distracted, going home on 71, and you turned your head&hellip;",
+            "content_html": "<p>I was distracted, going home on 71,</p>\n<p>and you turned your head left, waiting for cars to move through</p>\n<p>my lane</p>\n<p>You were struck by the winter sun—</p>\n<p>your face, Caravaggio, held in my frame</p>\n<p><span style=\"font-size: inherit;\">a brief intent carried in the crossing of shadow and light</span></p>\n<p><span style=\"font-size: inherit;\">Were you reticent? Were you pure?</span></p>\n<p>A stranger, a window, a mirror, a feeling</p>",
             "author": {
                 "name": "Zel"
             },
             "tags": [
             ],
-            "date_published": "2025-11-09T13:26:43-06:00",
-            "date_modified": "2025-11-09T13:26:43-06:00"
+            "date_published": "2025-12-12T12:43:10-06:00",
+            "date_modified": "2025-12-12T12:43:10-06:00"
         }
     ]
 }

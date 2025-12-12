@@ -1,34 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>ZWrites</title>
+    <title>Zel Writes </title>
     <link href="https://zel-writes.com/feed.xml" rel="self" />
     <link href="https://zel-writes.com" />
-    <updated>2025-11-09T13:26:43-06:00</updated>
+    <updated>2025-12-12T12:43:10-06:00</updated>
     <author>
         <name>Zel</name>
     </author>
     <id>https://zel-writes.com</id>
 
     <entry>
-        <title>Test Post</title>
+        <title>A Stranger</title>
         <author>
             <name>Zel</name>
         </author>
-        <link href="https://zel-writes.com/test-post.html"/>
-        <id>https://zel-writes.com/test-post.html</id>
+        <link href="https://zel-writes.com/a-stranger/"/>
+        <id>https://zel-writes.com/a-stranger/</id>
 
-        <updated>2025-11-09T13:26:43-06:00</updated>
+        <updated>2025-12-12T12:43:10-06:00</updated>
             <summary type="html">
                 <![CDATA[
-                    This is my first test post!
+                    I was distracted, going home on 71, and you turned your head&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-  <p>
-    This is my first test post!
-  </p>
+                <p>I was distracted, going home on 71,</p>
+<p>and you turned your head left, waiting for cars to move through</p>
+<p>my lane</p>
+<p>You were struck by the winter sun—</p>
+<p>your face, Caravaggio, held in my frame</p>
+<p><span style="font-size: inherit;">a brief intent carried in the crossing of shadow and light</span></p>
+<p><span style="font-size: inherit;">Were you reticent? Were you pure?</span></p>
+<p>A stranger, a window, a mirror, a feeling</p>
             ]]>
         </content>
     </entry>
